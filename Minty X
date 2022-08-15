@@ -1,14 +1,3 @@
---[[
-This is not a exact replica
-Reason for that is because the real "Minty X" is not released
-So it would be impossible to get the real source
-With the screenshots of the script I was able to make a almost exact replica
-Dumbass icy decided to use the Vape V4 ui-lib and claimed he paid someone to make it
-I know all the sources he has so I was able to replicate what would be in his script
-Probably none of the value names will be the same but most the code will
-
-Made/"cracked" by tiny toes#8633
-]]
 local MintyXLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/Vape.txt")()
 
 local MintyX = MintyXLib:Window("Minty X | Selling Menu",Color3.fromRGB(44, 120, 224), Enum.KeyCode.RightControl)
